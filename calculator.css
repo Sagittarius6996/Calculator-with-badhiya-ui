@@ -1,0 +1,22 @@
+.container {
+
+    padding: 150px;
+    border-radius: 50px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    display: flex;
+    
+    align-items: center;
+    height: 35vh;
+    width: 200px;
+    margin-left: 41.25vw;
+    border: #f0f0f0 3px solid;
+
+}
+.container input{
+    margin-top: -125px;
+    height: 30px;
+    width: 150px;
+    position: relative;
+}
+
